@@ -8,6 +8,8 @@ This page will explain how to make changes to documentation pages.
 We assume that you have already cloned our repository onto your local machine.
 If you haven't or are new to GitHub, checkout [our guide about GitHub](github.md).
 
+I made some changes to test things.
+
 ## Changing existing pages
 
 Editing the contents of existing pages is simple.
